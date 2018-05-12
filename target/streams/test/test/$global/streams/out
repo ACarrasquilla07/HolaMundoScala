@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.SplitTest, org.scalatest.tools.Framework$$anon$1@5facdac, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.FoldExamplesTest, org.scalatest.tools.Framework$$anon$1@5facdac, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(EitherLeftRightExampleTest, org.scalatest.tools.Framework$$anon$1@5facdac, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.ImplicitsTest, org.scalatest.tools.Framework$$anon$1@5facdac, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.MonadsTest, org.scalatest.tools.Framework$$anon$1@5facdac, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.CombineTest, org.scalatest.tools.Framework$$anon$1@5facdac, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(example.HelloSpec, org.scalatest.tools.Framework$$anon$1@5facdac, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 905 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 14[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 7, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 14, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example.SplitTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example.ImplicitsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EitherLeftRightExampleTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example.FoldExamplesTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example.HelloSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example.CombineTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example.MonadsTest[0m
