@@ -1,9 +1,10 @@
 #Successful Tests
-#Sat May 12 15:33:32 COT 2018
-example.HelloSpec=1526157212128
-example.ImplicitsTest=1526157211819
-EitherLeftRightExampleTest=1526157211821
-example.MonadsTest=1526157212011
-example.CombineTest=1526157212091
-example.SplitTest=1526157211824
-example.FoldExamplesTest=1526157211824
+#Tue May 15 22:45:43 COT 2018
+example.HelloSpec=1526442343674
+example.ImplicitsTest=1526442343658
+EitherLeftRightExampleTest=1526442343720
+example.MonadsTest=1526442343676
+example.MapListasTest=1526442343734
+example.CombineTest=1526442343766
+example.SplitTest=1526442343710
+example.FoldExamplesTest=1526442343773
