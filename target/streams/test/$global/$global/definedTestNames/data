@@ -1,1 +1,1 @@
-["example.SplitTest","example.MapListasTest","example.ImplicitsTest","EitherLeftRightExampleTest","example.FoldExamplesTest","example.HelloSpec","example.CombineTest","example.MonadsTest"]
+["example.SplitTest","example.TailrecTest","example.MapListasTest","example.ImplicitsTest","EitherLeftRightExampleTest","example.FoldExamplesTest","example.HelloSpec","example.CombineTest","example.MonadsTest"]
